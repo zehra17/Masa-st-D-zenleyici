@@ -30,15 +30,6 @@ Script dosyasını, düzenlemek istediğiniz klasörün içine kopyalayın. (Ör
 
 Terminal veya komut istemcisini açarak o klasöre gidin.
 
-# Örnek: Masaüstü için
-cd Desktop
-
-Aşağıdaki komutu çalıştırın:
-
-python toparlayici.py
-
-Script çalışacak, dosyaları taşıyacak ve işlem bittiğinde size bir özet sunacaktır.
-
 ## 🤝 Katkıda Bulunma
 Bu projeyi daha da geliştirmek için her türlü katkıya açığım!
 
